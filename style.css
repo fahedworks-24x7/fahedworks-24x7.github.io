@@ -92,11 +92,11 @@ header img{
   width: 70%;
 }
 
-.avatar img {
+.avtar img {
   width: 200px;
 }
 
-.avatar h2 {
+.avtar h2 {
   text-align: center;
   color: var(--title);
   font-size: 2rem;
